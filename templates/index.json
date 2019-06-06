@@ -6,7 +6,7 @@
     "info": [
         {
             "title": "Get Access",
-            "body": "Read the instructions on how to get access to the server. You'll be watching movies and television in no time.",
+            "body": "Read the instructions on how to get access to the server. You'll be watching movies and television in no time. The server is currently <span id='server-status'>Unknown</span>.",
             "button-text": "Instructions",
             "button-icon": "fas fa-list",
             "button-link": "/access"
